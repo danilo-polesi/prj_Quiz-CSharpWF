@@ -1,0 +1,101 @@
+Claro, aqui está um quiz com 10 perguntas desafiadoras sobre C# Windows Forms:
+
+Qual evento é acionado quando o usuário clica
+ em um botão em um formulário Windows Forms?
+a) Click
+b) Press
+c) Select
+d) Activate
+
+Qual é o nome da classe base para todos os controles em um formulário Windows Forms?
+a) Control
+b) Form
+c) Window
+d) BaseForm
+
+Qual é o método usado para exibir um novo formulário em um aplicativo Windows Forms?
+a) Show()
+b) Display()
+c) Open()
+d) Present()
+
+Qual é o objeto usado para armazenar dados em um aplicativo Windows Forms?
+a) DataStore
+b) DataManager
+c) DataSet <<<
+d) DataContainer
+
+Qual é o evento que é acionado quando um controle perde o foco em um formulário Windows Forms?
+a) FocusLost
+b) FocusChanged
+c) LostFocus <<<
+d) ControlChanged
+
+Qual é a propriedade usada para definir o texto exibido em uma label em um formulário Windows Forms?
+a) Text
+b) Caption
+c) LabelText
+d) DisplayText
+
+Qual é o método usado para fechar um formulário Windows Forms e liberar os recursos associados a ele?
+a) Close()
+b) Dispose()
+c) Exit()
+d) End()
+
+Qual é a classe usada para criar e manipular menus em um aplicativo Windows Forms?
+a) MenuStrip
+b) MenuBar
+c) ContextMenu
+d) MenuControl
+
+Qual é o componente usado para exibir uma lista de opções para o usuário selecionar em um formulário Windows Forms?
+a) ComboBox
+b) ListBox
+c) DropDownList
+d) SelectionBox
+
+Qual é o método usado para adicionar um controle a um formulário Windows Forms em tempo de execução?
+a) AddControl()
+b) AppendControl()
+c) InsertControl()
+d) Controls.Add() <<<
+
+Boa sorte!
+
+User
+agora me mostre quais são as respostas corretas
+ChatGPT
+Claro, aqui estão as respostas corretas para o quiz:
+
+Qual evento é acionado quando o usuário clica em um botão em um formulário Windows Forms?
+
+Resposta: a) Click
+Qual é o nome da classe base para todos os controles em um formulário Windows Forms?
+
+Resposta: a) Control
+Qual é o método usado para exibir um novo formulário em um aplicativo Windows Forms?
+
+Resposta: a) Show()
+Qual é o objeto usado para armazenar dados em um aplicativo Windows Forms?
+
+Resposta: c) DataSet
+Qual é o evento que é acionado quando um controle perde o foco em um formulário Windows Forms?
+
+Resposta: c) LostFocus
+Qual é a propriedade usada para definir o texto exibido em uma label em um formulário Windows Forms?
+
+Resposta: a) Text
+Qual é o método usado para fechar um formulário Windows Forms e liberar os recursos associados a ele?
+
+Resposta: a) Close()
+Qual é a classe usada para criar e manipular menus em um aplicativo Windows Forms?
+
+Resposta: a) MenuStrip
+Qual é o componente usado para exibir uma lista de opções para o usuário selecionar em um formulário Windows Forms?
+
+Resposta: a) ComboBox
+Qual é o método usado para adicionar um controle a um formulário Windows Forms em tempo de execução?
+
+Resposta: d) Controls.Add()
+Espero que você tenha achado o quiz desafiador!
